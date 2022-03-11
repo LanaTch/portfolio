@@ -1,3 +1,5 @@
+# Чобану Светлана
+аналитик данных
 # [резюме](https://github.com/LanaTch/portfolio/blob/main/TchobanouSG_s_CV.pdf)
 # portfolio
 * [построение рекомендательной системы](https://github.com/LanaTch/portfolio/blob/main/final_project_rs_v2.ipynb)
