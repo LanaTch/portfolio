@@ -7,3 +7,4 @@
 * [парсинг html](https://github.com/LanaTch/parsing/blob/master/hh_hw3.py)
 * [парсинг BeautifulSoup](https://github.com/LanaTch/parsing/blob/master/pase_news_hw4.py)
 * [uplift моделирование](https://colab.research.google.com/drive/1UbWOEcR-LnF7PZfw6bcimwxJaFAOZZup)
+* [дашборд dash/plotly](https://tchobanou-s-dash-app.herokuapp.com/)
